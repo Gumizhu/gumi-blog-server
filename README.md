@@ -8,5 +8,6 @@
 
 ### 2.启动运行
 ```javascript
-	npm run start
+	cd bin
+	node www
 ```
